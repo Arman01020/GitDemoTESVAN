@@ -7,5 +7,5 @@ def im_funkcia(n):
         else:
             kenter.append(i)
     return print(zuyger,kenter)
-l=range(5,51)
+l=range(6,51)
 im_funkcia(l)
